@@ -1,7 +1,7 @@
 # emeber-php-ajax-json-CRUD-.
 emeber+php+ajax+json(CRUD)      
-utiliza mysql apache2 php5
-#Proceso
+utiliza mysql apache2 php5-.
+#Proceso-.
 1-crear un directorio dentro de nuestro servidor web
 2-descargar ember.js
 3-utiliza handlebar para los templates para definir las vistas
