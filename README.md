@@ -3,6 +3,7 @@ emeber+php+ajax+json(CRUD)
 utiliza mysql apache2 php5-.
 #Proceso-.
 1-descomprimir .zip en  el servidor web
+cargar archivo sql a la base de datos
 
 2-utiliza handlebar para los templates para definir las vistas
 
